@@ -11,8 +11,8 @@ docker run -d -p 8888:8888 -p 6006:6006 -v //c/Users/Alan/Desktop/w266:/notebook
 
 $ docker run -d -p 8888:8888 -p 6006:6006 -v //c/Users/Alan/Desktop/w266:/notebooks --name w266 b.gcr.io/tensorflow/tensorflow
 
-$ docker run -d -p 8888:8888 -p 6006:6006 -v //c/Users/Alan/Desktop/w266p:/notebooks --name w266p b.gcr.io/tensorflow/tensorflow
+$ docker run -d -p 8888:8888 -p 6006:6006 -v //c/Users/Alan/Desktop:/notebooks --name w266p b.gcr.io/tensorflow/tensorflow
 
 $ 
-
+$ docker run -d -p 8888:8888 -p 6006:6006 -v //c/Users/Alan/Desktop:/notebooks --name w266p b.gcr.io/tensorflow/tensorflow
 docker run -it b.gcr.io/tensorflow/tensorflow
