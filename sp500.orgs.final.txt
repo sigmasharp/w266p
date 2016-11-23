@@ -329,7 +329,6 @@
 117|Coca|Coca-Cola Fems
 117|Coca|Coca-Cola Femsa
 117|Coca|Coca-Cola Usa
-117|Coca|Coca-Cola y Hit de Venezuel
 118|Cognizant|Cognizant Technology Solutions Cor
 118|Cognizant|Cognizant Technology Solutions Corp
 118|Cognizant|Cognizant Technology Solutions Corporatio
@@ -346,29 +345,12 @@
 122|ConAgra|ConAgra Foods Incorporated
 124|ConocoPhillips|ConocoPhillips
 124|ConocoPhillips|ConocoPhillips Inc
-125|Consolidated|'De Beers Consolidated Mines Lt
-125|Consolidated|Abitibi-Consolidated In
-125|Consolidated|Conrail (Consolidated Rail Corp
-125|Consolidated|Conrail (Consolidated Rail Corp)
-125|Consolidated|Consolidated Capital Corp
-125|Consolidated|Consolidated Cigar Cor
-125|Consolidated|Consolidated Credit Counseling Services
 125|Consolidated|Consolidated Ediso
 125|Consolidated|Consolidated Edison Co of New York
 125|Consolidated|Consolidated Edison Co of New York In
 125|Consolidated|Consolidated Edison Co of New York Inc
 125|Consolidated|Consolidated Edison In
 125|Consolidated|Consolidated Edison Incorporated
-125|Consolidated|Consolidated Electric Power Asia Lt
-125|Consolidated|Consolidated Freightways Cor
-125|Consolidated|Consolidated Graphics Inc
-125|Consolidated|Consolidated Natural Gas C
-125|Consolidated|Consolidated Papers In
-125|Consolidated|De Beers Consolidated Mine
-125|Consolidated|De Beers Consolidated Mines Lt
-125|Consolidated|De Beers Consolidated Mines Ltd
-125|Consolidated|Debeers Consolidated Mines Lt
-125|Consolidated|Debeers Consolidated Mines Ltd
 126|Constellation|Constellation Brands In
 126|Constellation|Constellation Brands Incorporate
 126|Constellation|Constellation Energy Grou
@@ -378,34 +360,19 @@
 127|Corning|Corning In
 127|Corning|Corning Inc
 127|Corning|Corning Incorporated
-127|Corning|Dow Corning Cor
-127|Corning|Dow Corning Corp
-127|Corning|Owens-Corning Fiberglas Cor
-127|Corning|Owens-Corning Fiberglas Corp
 128|Costco|Costco
 128|Costco|Costco Wholesale (Co
 128|Costco|Costco Wholesale Cor
 128|Costco|Costco Wholesale Corp
 128|Costco|Costco Wholesale Corporatio
 128|Costco|Costco Wholesale Corporation
-130|Crown|Crown Books Cor
 130|Crown|Crown Castle Internationa
-130|Crown|Crown Empire Liquor (Garden Grov
-130|Crown|Crown Financial Ministries
-130|Crown|Crown Media Holding
-130|Crown|Crown Odyssey
-130|Crown|Crown Publishers
-130|Crown|Crown Realty and Development
-130|Crown|Crown Supermarket (West Hartfor
-130|Crown|Triple Crown Production
-130|Crown|Triple Crown Publications
 132|CSX|CSX CORP
 133|Cummins|Cummins Engine C
 133|Cummins|Cummins Engine Co
 133|Cummins|Cummins Incorporated
 134|CVS|CVS Corporatio
 134|CVS|CVS Corporation
-135|D.|MAD. 61 (NYC RESTAURANT
 137|Darden|Darden Restaurant
 139|Deere|Deere & C
 139|Deere|Deere & Co
@@ -419,11 +386,6 @@
 140|Delphi|Delphi Corp
 140|Delphi|Delphi Grou
 140|Delphi|Delphi In
-140|Delphi|Delphi Interior and Lighting System
-140|Delphi|Delphi Internet C
-140|Delphi|Delphi Managemen
-141|Delta|Banco Delta Asia
-141|Delta|Delta & Pine Land Company
 141|Delta|Delta Air Line
 141|Delta|Delta Air Lines
 141|Delta|Delta Air Lines In
@@ -431,105 +393,9 @@
 141|Delta|Delta Air Lines Incorporate
 141|Delta|Delta Air Lines Incorporated
 141|Delta|Delta Airline
-141|Delta|Delta Capital Managemen
-141|Delta|Delta Expres
-141|Delta|Delta Faucet C
-141|Delta|Delta Financial Cor
-141|Delta|Delta Financial Corp
-141|Delta|Delta Fundin
-141|Delta|Delta Funding
-141|Delta|Delta Gold Zimbabw
-141|Delta|Delta and Pine Land C
-141|Delta|DeltaQueen Coastal Voyages
-144|Digital|Academy of Digital Arts and Science
-144|Digital|Alliance for Digital Progres
-144|Digital|Apex Digital T
-144|Digital|Applied Digital Solution
-144|Digital|Applied Digital Solutions
-144|Digital|Applied Digital Solutions In
-144|Digital|Applied Digital System
-144|Digital|BlueSpoon Digital (Co
-144|Digital|Brilliant Digital Entertainmen
-144|Digital|CBS Digital Medi
-144|Digital|Center for Digital Democracy
-144|Digital|Digital Addiction (Co)
-144|Digital|Digital Angel Cor
-144|Digital|Digital Angel Corp
-144|Digital|Digital Artist
-144|Digital|Digital Blue (Co
-144|Digital|Digital Blue (Co)
-144|Digital|Digital Chocolate (Co
-144|Digital|Digital Chocolate (Co)
-144|Digital|Digital City In
-144|Digital|Digital City N
-144|Digital|Digital Club Network
-144|Digital|Digital Consulting and Software Services
-144|Digital|Digital Convergence Corp
-144|Digital|Digital Domai
-144|Digital|Digital Domain
-144|Digital|Digital Edge (Co
-144|Digital|Digital Entertainment Network
-144|Digital|Digital Equipment Cor
-144|Digital|Digital Equipment Corp
-144|Digital|Digital Fountai
-144|Digital|Digital Freedom Network
-144|Digital|Digital Furnac
-144|Digital|Digital Global Networ
-144|Digital|Digital Ink (Co)
-144|Digital|Digital Innovations
-144|Digital|Digital Island In
-144|Digital|Digital Island Inc
-144|Digital|Digital Lifestyle Outfitters (Co
-144|Digital|Digital Lifestyle Outfitters (Co)
-144|Digital|Digital River Incorporated
-144|Digital|Digital Robotics Inc
-144|Digital|Digital Theater System
-144|Digital|Digital Theater Systems Incorporated
-144|Digital|Digital Video Systems Inc
-144|Digital|Digital on-Deman
-144|Digital|DigitalPerson
-144|Digital|DigitalWork
-144|Digital|E.Digital (Co
-144|Digital|FourDigitalBook
-144|Digital|Fraunhofer Institute for Digital Media Technolog
-144|Digital|Fuel Digital Inc
-144|Digital|Grace and Digital Information Technology (Co
-144|Digital|Ibiquity Digital Cor
-144|Digital|International Academy of Digital Arts and Science
-144|Digital|International Academy of Digital Arts and Sciences
-144|Digital|International Digital Communications In
-144|Digital|International Digital Object Identifier Foundatio
-144|Digital|Lowry Digital (Co
-144|Digital|News Digital Medi
-144|Digital|Pacific Digital (Co)
-144|Digital|Pure Digital Technologie
-144|Digital|Rio Digital Audio
-144|Digital|Scitex Digital Printin
-144|Digital|Secure Digital Music Initiativ
-144|Digital|Secure Digital Music Initiative
-144|Digital|Thought Bubble Digital Medi
-144|Digital|US Digital Televisio
-144|Digital|WOW Digital TV Co
-144|Digital|Western Digital Corporation
-145|Discover|Children's Discovery Centers of America In
-145|Discover|Discover Brokerag
 145|Discover|Discover Card (Co
 145|Discover|Discover Financial Service
 145|Discover|Discover Financial Services
-145|Discover|Discovery Channe
-145|Discover|Discovery Channel
-145|Discover|Discovery Communication
-145|Discover|Discovery Communications
-145|Discover|Discovery Communications In
-145|Discover|Discovery Enterprises Worldwid
-145|Discover|Discovery Holding Compan
-145|Discover|Discovery Institut
-145|Discover|Discovery Museum (Bridgepor
-145|Discover|Discovery Network
-145|Discover|Discovery World Cruise
-145|Discover|Discovery Zone
-145|Discover|Discovery.co
-145|Discover|Fraud Discovery Institute
 146|Discovery|Children's Discovery Centers of America In
 146|Discovery|Discovery Channe
 146|Discovery|Discovery Channel
@@ -539,12 +405,9 @@
 146|Discovery|Discovery Enterprises Worldwid
 146|Discovery|Discovery Holding Compan
 146|Discovery|Discovery Institut
-146|Discovery|Discovery Museum (Bridgepor
 146|Discovery|Discovery Network
-146|Discovery|Discovery World Cruise
 146|Discovery|Discovery Zone
 146|Discovery|Discovery.co
-146|Discovery|Fraud Discovery Institute
 147|Discovery|Children's Discovery Centers of America In
 147|Discovery|Discovery Channe
 147|Discovery|Discovery Channel
@@ -559,7 +422,6 @@
 147|Discovery|Discovery World Cruise
 147|Discovery|Discovery Zone
 147|Discovery|Discovery.co
-147|Discovery|Fraud Discovery Institute
 148|Dollar|Dollar Thrifty Automotive Group In
 148|Dollar|Dollar Thrifty Automotive Group Inc
 148|Dollar|Dollar Tree Stores In
