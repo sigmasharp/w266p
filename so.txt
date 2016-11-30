@@ -1,0 +1,1333 @@
+2,Abbott Laboratorie
+2,Abbott Laboratories
+2,Abbott Laboratories In
+2,Abbott Laboratories Inc
+2,Abbott Mead Vickers Bbdo
+2,Abbott Mead Vickers PL
+4,Accenture (Co
+4,Accenture (Co)
+4,Accenture Limited
+4,Accenture Lt
+5,Activision In
+5,Activision Inc
+5,Activision Incorporate
+5,Activision Incorporated
+7,Adobe System
+7,Adobe Systems In
+7,Adobe Systems Inc
+7,Adobe Systems Incorporated
+7,Adobe Theater Compan
+7,Adobe Theater Company
+9,AES COR
+9,CAESARS PALACE (LAS VEGA
+9,KAESSBOHRE
+9,LITTLE CAESAR ENTERPRISES
+9,MAESA PETROLEUM INC
+9,MAESTRO USA
+9,TRANSPORTES AEREOS EJECUTIVOS SA (TAESA)
+9,The AES Corporation
+10,Aetna Financial Service
+10,Aetna In
+10,Aetna Inc
+10,Aetna Incorporate
+10,Aetna Incorporated
+10,Aetna Internationa
+10,Aetna Life & Casualty C
+10,Aetna Life Insurance C
+10,Aetna Life Insurance Co
+10,Aetna Life and Casualty C
+10,Aetna Life and Casualty Co
+10,Aetna US Healthcar
+10,Aetna US Healthcare
+11,AFLAC IN
+12,Affiliated Computer Services Incorporated
+13,Agilent Technologie
+13,Agilent Technologies
+13,Agilent Technologies In
+13,Agilent Technologies Incorporated
+15,Akamai Technologies In
+15,Akamai Technologies Inc
+16,Alaska Airline
+16,Alaska Airlines
+16,Alaska Airlines In
+17,Albemarle Corp
+18,Allergan In
+18,Allergan Incorporated
+19,Alliant Energy Cor
+19,Alliant Techsystems In
+19,Alliant Techsystems Incorporated
+20,Alexion Pharmaceuticals
+20,Alexion Pharmaceuticals Incorporated
+22,Alliance (Co
+22,Alliance Data System
+23,Allstate Cor
+23,Allstate Corp
+23,Allstate Corporatio
+23,Allstate Corporation
+23,Allstate Insurance C
+23,Allstate Insurance Co
+26,Altria (Co
+26,Altria Grou
+26,Altria Group
+26,Altria Group In
+27,Amazon.com
+27,Amazon.com In
+27,Amazon.com Inc
+27,Amazon.com Incorporate
+27,Amazon.com Incorporated
+29,American Airline
+29,American Airlines
+29,American Airlines In
+29,American Airlines Inc
+30,American Electric Power C
+31,American Express Ban
+31,American Express C
+31,American Express Co
+31,American Express Compan
+31,American Express Company
+31,American Express Publishing
+31,American Express Trave
+32,American International Grou
+32,American International Group
+32,American International Group In
+32,American International Group Inc
+32,American International Group Incorporate
+32,American International Group Incorporated
+33,American Tower Cor
+34,American Water Works Co In
+35,Ameriprise Financia
+38,Amgen In
+38,Amgen Inc
+38,Amgen Incorporate
+38,Amgen Incorporated
+39,Amphenol Cor
+40,Anadarko Petroleum Cor
+40,Anadarko Petroleum Corp
+41,Analog Devices In
+41,Analog Devices Inc
+42,Anthem Health Syste
+42,Anthem In
+43,Aon Cor
+43,Aon Corp
+43,Aon Corporatio
+43,Aon Corporation
+43,Aon Group In
+43,Aon Group Inc
+44,Apache Cor
+45,Apartment (NYC Shop)
+46,Apple Computer In
+46,Apple Computer Inc
+46,Apple Computer Incorporate
+46,Apple Computer Incorporated
+46,Apple Core Hotel
+46,Apple Corp
+46,Apple In
+46,Apple Inc
+47,Applied Materials In
+47,Applied Materials Inc
+47,Applied Materials Incorporate
+48,Archer-Daniels-Midland Co
+52,AMERICAN TELEPHONE & TELEGRAPH CO INC (AT&T
+52,AMERICAN TELEPHONE & TELEGRAPH CO INC (AT&T)
+52,AT&T BELL LABORATORIE
+52,AT&T BELL LABORATORIES
+52,AT&T CAPITAL COR
+52,AT&T CHIN
+52,AT&T COR
+52,AT&T CORP
+52,AT&T Cor
+52,AT&T Corp
+52,AT&T Corporatio
+52,AT&T Corporation
+52,AT&T MICROELECTRONICS
+52,AT&T NETWORK SYSTEMS
+52,AT&T NETWORK SYSTEMS INTERNATIONA
+52,AT&T PARADYN
+52,AT&T Wireless Grou
+52,AT&T Wireless Services Incorporate
+53,Autodesk
+53,Autodesk In
+54,Automatic Data Processing In
+58,Avery Publishing Group
+59,Baker Hughes In
+60,Ball Cor
+61,Bank of Americ
+61,Bank of America
+61,Bank of America Cor
+61,Bank of America Corp
+61,Bank of America Corporatio
+61,Bank of America Corporation
+62,MELLON BANK
+62,MELLON BANK COR
+62,MELLON BANK CORP
+64,Baxter International In
+64,Baxter International Inc
+65,BB&T Corporation
+66,Becton Dickinson & C
+66,Becton Dickinson & Co
+67,Bed Bath & Beyond
+67,Bed Bath & Beyond Incorporate
+69,Best Buy C
+69,Best Buy Co
+69,Best Buy Company Incorporate
+69,Best Buy Company Incorporated
+70,AMERICAN BIOGENETIC SCIENCES INC
+70,BIOGEN IN
+70,BIOGEN INC
+72,H & R Block In
+72,H & R Block Inc
+72,H&R Block Incorporate
+72,H&R Block Incorporated
+72,H&r Block
+72,H&r Block In
+73,Boeing C
+73,Boeing Co
+73,Boeing Cor
+73,Boeing Corp
+73,The Boeing Compan
+73,The Boeing Company
+75,Boston Propertie
+75,Boston Properties In
+75,Boston Properties Inc
+76,Boston Scientific Cor
+76,Boston Scientific Corporatio
+76,Boston Scientific Corporation
+76,Boston Scientific In
+77,Bristol-Myers Squib
+77,Bristol-Myers Squibb C
+77,Bristol-Myers Squibb Co
+77,Bristol-Myers Squibb Company
+78,Broadcom Cor
+78,Broadcom Corp
+83,Campbell Soup C
+83,Campbell Soup Co
+83,Campbell Soup Compan
+84,Capital O
+84,Capital One Financial Cor
+84,Capital One Financial Corp
+84,Capital One Financial Corporatio
+85,Cardinal Health In
+85,Cardinal Health Inc
+88,Carnival Cor
+88,Carnival Corp
+88,Carnival Cruise Line
+88,Carnival Cruise Lines
+88,Carnival Cruise Lines In
+88,Carnival Cruise Lines Inc
+89,Caterpillar In
+89,Caterpillar Inc
+89,Caterpillar Incorporate
+91,CBS 2 Information Networ
+91,CBS Cor
+91,CBS Corp
+91,CBS Corporatio
+91,CBS Corporation
+91,CBS Digital Medi
+91,CBS IN
+91,CBS INC
+91,CBS NEW
+91,CBS NEWS
+91,CBS New
+91,CBS News
+91,CBS SPORT
+91,CBS SPORTS SAN JOSE STATE UNIVERSIT
+91,CBS Sport
+91,CBS Sports
+91,KCBS-FM (Los Angeles
+91,NEW YORK TIMES/CBS NEWS POL
+91,NEW YORK TIMES/CBS NEWS POLL
+91,WCBS-AM (NYC
+91,WCBS-AM (NYC)
+91,WCBS-F
+91,WCBS-TV (NYC
+91,WCBS-TV (NYC)
+92,Celgene Cor
+92,Celgene Corp
+92,Celgene Corporatio
+96,Cerner Cor
+98,Charles Schwab Corporatio
+98,Charles Schwab Corporation
+99,Charter Communication
+99,Charter Communications Cor
+99,Charter Communications Corp
+99,Charter Communications In
+99,Charter Communications Inc
+99,Charter Communications Incorporate
+100,Chesapeake Energy Cor
+101,Chevron Cor
+101,Chevron Corp
+101,Chevron Texaco In
+101,ChevronTexaco Corporatio
+101,Chevrontexaco Cor
+101,Chevrontexaco Corp
+102,Chipotle Mexican Gril
+103,Chubb Cor
+103,Chubb Corp
+103,Chubb Corporation
+103,Chubb Grou
+103,Chubb Group
+103,Chubb Group Insuranc
+103,Chubb Group Insurance
+103,Chubb Group of Insurance Companie
+104,Abyssinian Baptist Church (NYC)
+104,African Methodist Episcopal Church
+104,Americans United for Separation of Church and Stat
+104,Americans United for Separation of Church and State
+104,Baptist Church
+104,Baptist Churche
+104,Bethany Reformed Church (Nyc)
+104,Burned Churches Fun
+104,Christian Cultural Center (NYC Church)
+104,Church & C
+104,Church & Dwight C
+104,Church & Dwight Co
+105,CIGNA COR
+105,CIGNA CORP
+108,Cintas Corporation
+108,Cintas Foundatio
+109,Cisco System
+109,Cisco Systems
+109,Cisco Systems In
+109,Cisco Systems Inc
+109,Cisco Systems Incorporate
+109,Cisco Systems Incorporated
+110,Citigroup
+110,Citigroup Foundatio
+110,Citigroup In
+110,Citigroup Inc
+110,Citigroup Incorporate
+110,Citigroup Incorporated
+110,Citigroup Venture Capital Equity Partner
+110,Citigroup private bank
+111,Citizens Financial Grou
+112,Citrix System
+112,Citrix Systems
+112,Citrix Systems Inc
+113,CLOROX C
+113,CLOROX CO
+115,CMS ENERGY COR
+116,Coach (Leather Goods Co
+116,Coach (Leather Goods Co)
+116,Coach In
+116,Coach Incorporated
+116,Coach U (Co)
+116,Coach Us
+116,Coach Usa In
+117,Coca-Cola Amati
+117,Coca-Cola Amatil Ltd
+117,Coca-Cola Beverage
+117,Coca-Cola C
+117,Coca-Cola Co
+117,Coca-Cola Compan
+117,Coca-Cola Companie
+117,Coca-Cola Company
+117,Coca-Cola Company (Coke
+117,Coca-Cola Company (Coke)
+117,Coca-Cola Enterprise
+117,Coca-Cola Enterprises
+117,Coca-Cola Enterprises Inc
+117,Coca-Cola Fems
+117,Coca-Cola Femsa
+117,Coca-Cola Usa
+118,Cognizant Technology Solutions Cor
+118,Cognizant Technology Solutions Corp
+118,Cognizant Technology Solutions Corporatio
+119,Colgate-Palmolive C
+119,Colgate-Palmolive Co
+119,Colgate-Palmolive Compan
+120,Comcast Cable Communications In
+120,Comcast Cablevision In
+120,Comcast Cablevision Inc
+120,Comcast Cor
+120,Comcast Corp
+120,Comcast Corporatio
+120,Comcast Corporation
+122,ConAgra Foods Incorporated
+124,ConocoPhillips
+124,ConocoPhillips Inc
+125,Consolidated Ediso
+125,Consolidated Edison Co of New York
+125,Consolidated Edison Co of New York In
+125,Consolidated Edison Co of New York Inc
+125,Consolidated Edison In
+125,Consolidated Edison Incorporated
+126,Constellation Brands In
+126,Constellation Brands Incorporate
+126,Constellation Energy Grou
+127,Corning Consumer Products In
+127,Corning Cor
+127,Corning Corp
+127,Corning In
+127,Corning Inc
+127,Corning Incorporated
+128,Costco
+128,Costco Wholesale (Co
+128,Costco Wholesale Cor
+128,Costco Wholesale Corp
+128,Costco Wholesale Corporatio
+128,Costco Wholesale Corporation
+130,Crown Castle Internationa
+132,CSX CORP
+133,Cummins Engine C
+133,Cummins Engine Co
+133,Cummins Incorporated
+134,CVS Corporatio
+134,CVS Corporation
+137,Darden Restaurant
+139,Deere & C
+139,Deere & Co
+140,Delphi (Co
+140,Delphi (Co)
+140,Delphi Automotive System
+140,Delphi Automotive Systems Cor
+140,Delphi Automotive Systems Corporatio
+140,Delphi Automotive Systme
+140,Delphi Cor
+140,Delphi Corp
+140,Delphi Grou
+140,Delphi In
+141,Delta Air Line
+141,Delta Air Lines
+141,Delta Air Lines In
+141,Delta Air Lines Inc
+141,Delta Air Lines Incorporate
+141,Delta Air Lines Incorporated
+141,Delta Airline
+145,Discover Card (Co
+145,Discover Financial Service
+145,Discover Financial Services
+146,Discovery Channe
+146,Discovery Channel
+146,Discovery Communication
+146,Discovery Communications
+146,Discovery Communications In
+149,Dollar Tree Stores In
+149,Family Dollar Discount Stores In
+150,Dominion Resources In
+151,Dover Street Market (London Store)
+151,Dover Street Market (London)
+152,3 Doors Down (Music Group)
+152,Alliance For Downtown New York
+152,Alliance for Downtown New Yor
+152,Alliance for Downtown New York
+152,Churchill Downs In
+152,Churchill Downs Incorporated
+152,Dow Chemical C
+152,Dow Chemical Co
+152,Dow Chemical Compan
+152,Dow Chemical Company
+152,Dow Corning Cor
+152,Dow Corning Corp
+153,Dr Pepper/seven Up Co
+153,Dr Pepper/seven Up Cos
+154,DTE Energy Compan
+155,Dupont C
+155,Dupont Co
+155,Dupont E I Nemours & Compan
+155,Dupont E I Nemours & Company
+156,Duke & C
+156,Duke & Co
+156,Duke Energy C
+156,Duke Energy Cor
+156,Duke Energy Corp
+156,Duke Energy Corporatio
+156,Duke Energy Corporation
+156,Duke Power C
+157,Dun & Bradstreet Cor
+157,Dun & Bradstreet Corporatio
+158,E*Trade Group In
+159,Eastman Chemical C
+159,Eastman Kodak C
+159,Eastman Kodak Co
+159,Eastman Kodak Compan
+159,Eastman Kodak Company
+160,Eaton Cor
+161,eBay In
+161,eBay Inc
+161,eBay Incorporate
+161,eBay Incorporated
+163,Edison International In
+163,Southern California Edison C
+163,Southern California Edison Co
+163,Southern California Edison Compan
+164,Edwards Lifesciences Corporation
+165,Electronic Art
+165,Electronic Arts
+165,Electronic Arts In
+165,Electronic Arts Inc
+165,Electronic Arts Intermix
+165,Electronics Art
+166,Emerson Electric C
+166,Emerson Electric Co
+168,Entergy Cor
+168,Entergy Corp
+168,Entergy Corporation
+168,Entergy Nuclear
+168,Entergy Nuclear Northeas
+168,Entergy Nuclear Northeast
+168,Entergy Power Cor
+171,Equifax In
+171,Equifax Incorporate
+173,Equity Funding Corp of Americ
+173,Equity Lifestyle Propertie
+173,Equity Office Properties Trus
+173,Equity Office Properties Trust
+174,Alain Ducasse at the Essex House
+174,Alain Ducasse at the Essex House (NYC)
+174,Essex Street Marke
+174,Essex Street Market
+174,Essex and Sussex Hotel (NJ)
+174,Peabody Essex Museum (Sale
+175,Estee Lauder Companie
+175,Estee Lauder Companies
+175,Estee Lauder In
+175,Estee Lauder Incorporated
+177,Exelon Cor
+177,Exelon Corporatio
+178,Expedia (Co
+178,Expedia Inc
+178,Expedia Incorporate
+178,Expedia Incorporated
+178,Expedia.com
+180,Express Scripts In
+180,Express Scripts Inc
+180,Express Scripts Incorporate
+180,Express Scripts Incorporated
+182,Exxon Cor
+182,Exxon Corp
+182,Exxon Mobi
+182,Exxon Mobil
+182,Exxon Mobil Cor
+182,Exxon Mobil Corp
+182,Exxon Mobil Corporatio
+182,Exxon Mobil Corporation
+182,Exxonmobil Cor
+182,Exxonmobil Corp
+184,Facebook.co
+184,Facebook.com
+186,Federal Realty Investment Trust
+187,FedEx Cor
+187,FedEx Corp
+187,FedEx Corporatio
+187,FedEx Corporation
+188,Fidelity National Financial In
+189,Fifth Third Bancorp
+189,Fifth Third Bank
+191,FirstEnergy Corporation
+195,Fluor Cor
+195,Fluor Corp
+196,FMC COR
+196,FMC CORP
+198,Foot Locker In
+199,Aston Martin Division of Ford Motor C
+199,Changan Ford Automobile Cor
+199,Ford
+199,Ford Motor C
+199,Ford Motor Co
+199,Ford Motor Co of Canada
+199,Ford Motor Compan
+199,Ford Motor Company
+199,Ford Motor Credit C
+199,Ford of Europ
+199,Henry Ford Museum (Dearbor
+199,Lincoln-Mercury Division of Ford Motor C
+199,Lincoln-Mercury Division of Ford Motor Co
+199,Mercury Division of Ford Motor Co
+199,Spirit of Ford Museum (Dearbor
+201,Fortune
+201,Fortune Brands Incorporated
+202,Franklin Resources In
+202,Franklin Templeton Grou
+202,Franklin Templeton Group
+202,Franklin Templeton Limited Duration Income Trust
+203,Freeport-McMoran In
+204,Frontier
+204,Frontier Cor
+204,Frontier Corp
+204,Frontier For
+205,Gap In
+205,Gap Inc
+205,Gap Incorporate
+205,Gap Incorporated
+206,Garmin (Co
+206,Garmin (Co)
+206,Garmin Limited
+206,Garmin Lt
+207,General Dynamics Cor
+207,General Dynamics Corporatio
+207,General Dynamics Corporation
+208,General Electric C
+208,General Electric Co
+208,General Electric Co Pl
+208,General Electric Compan
+208,General Electric Company
+208,General Electric Cor
+209,General Growth Properties Inc
+210,General Mills In
+210,General Mills Inc
+210,General Mills Incorporate
+210,General Mills Incorporated
+211,General Motors Acceptance Cor
+211,General Motors Acceptance Corporation
+211,General Motors Cor
+211,General Motors Corp
+211,General Motors Corporatio
+211,General Motors Corporation
+213,Gilead Sciences In
+213,Gilead Sciences Incorporated
+215,Goldman Sachs & C
+215,Goldman Sachs & Co
+215,Goldman Sachs Europe
+215,Goldman Sachs Grou
+215,Goldman Sachs Group
+215,Goldman Sachs Group In
+215,Goldman Sachs Group Inc
+215,Goldman Sachs Group Incorporate
+215,Goldman Sachs Group Incorporated
+215,Goldman Sachs Japan
+215,The Goldman Sachs Group Incorporate
+215,The Goldman Sachs Group Incorporated
+216,Goodyear Tire & Rubber C
+216,Goodyear Tire & Rubber Co
+216,Goodyear Tire and Rubber C
+218,Halliburton C
+218,Halliburton Co
+218,Halliburton Compan
+218,Halliburton Company
+218,Halliburton Corporatio
+220,Harley-Davidson Co
+220,Harley-Davidson In
+220,Harley-Davidson Inc
+220,Harley-Davidson Incorporated
+221,Harman International Industries
+222,Harris Cor
+223,Hartford Financial Services Grou
+223,Hartford Financial Services Group
+223,Hartford Fire Insuranc
+223,Hartford Fire Insurance Royal Indemnit
+223,Hartford Life Insurance Co
+224,Hasbro In
+224,Hasbro Inc
+224,Hasbro Incorporate
+224,Hasbro Incorporated
+225,COLUMBIA-HCA HEALTHCARE COR
+225,COLUMBIA-HCA HEALTHCARE CORP
+225,COLUMBIA/HCA
+225,COLUMBIA/HCA HEALTHCARE COR
+225,COLUMBIA/HCA HEALTHCARE CORP
+225,HCA - The Healthcare Compan
+225,HCA - The Healthcare Company
+225,HCA Inc
+225,HCA-HOSPITAL CORP OF AMERIC
+228,Amerada Hess Cor
+228,O'Gara-Hess & Eisenhardt Armoring Co
+229,Hewlett Foundatio
+229,Hewlett-Packar
+229,Hewlett-Packard
+229,Hewlett-Packard C
+229,Hewlett-Packard Co
+229,Hewlett-Packard Compan
+229,Hewlett-Packard Company
+230,Hologic Incorporated
+231,Home Depot In
+231,Home Depot Inc
+231,Home Depot Incorporate
+231,Home Depot Incorporated
+232,Honeywell In
+232,Honeywell Inc
+232,Honeywell Internationa
+232,Honeywell International
+232,Honeywell International In
+232,Honeywell International Incorporated
+233,Hormel Food Corp
+233,Hormel Foods Cor
+233,Hormel Foods Corp
+234,Host Marriott Cor
+236,Humana In
+236,Humana Inc
+236,Humana Incorporated
+236,Humana Insurance C
+239,Illumina (Co
+240,Ingersoll-Rand C
+241,Intel Cor
+241,Intel Corp
+241,Intel Corporatio
+241,Intel Corporation
+242,Intercontinental Exchang
+242,IntercontinentalExchange Incorporated
+242,Intercontinentalexchang
+243,International Business Machine
+243,International Business Machines Cor
+243,International Business Machines Corp
+243,International Business Machines Corp (IBM
+243,International Business Machines Corp (IBM)
+243,International Business Machines Corporatio
+243,International Business Machines Corporation
+243,International Business Machines Corporation International Business Machines Corporation
+244,International Paper C
+244,International Paper Co
+244,International Paper Compan
+244,International Paper Company
+245,Interpublic Group of Co
+245,Interpublic Group of Companies In
+245,Interpublic Group of Companies Inc
+245,Interpublic Group of Companies Incorporate
+245,Interpublic Group of Companies Incorporated
+245,Interpublic Group of Cos
+247,Intuit Cor
+247,Intuit In
+247,Intuit Inc
+247,Intuit Incorporated
+249,Invesco Funds Group In
+249,Invesco Funds Group Inc
+250,American Iron and Steel Institut
+250,American Iron and Steel Institute
+250,Baoshan Iron and Steel Co
+250,Barking Irons (Company)
+250,Chicago Bridge & Iron Company NV
+250,Iron Mountain Inc
+254,Johnson & Johnson In
+254,Johnson & Johnson Inc
+254,Johnson & Johnson Incorporate
+254,Johnson & Johnson Incorporated
+255,Johnson & Johnson In
+255,Johnson & Johnson Inc
+255,Johnson & Johnson Incorporate
+255,Johnson & Johnson Incorporated
+256,JPMorgan Partner
+257,Juniper Networks In
+257,Juniper Networks Inc
+257,Juniper Networks Incorporate
+258,Country Club Plaza (Kansas City)
+258,Jazz Museum (Kansas Cit
+258,Kansas City Southern Industries In
+258,Kansas City Southern Industries Inc
+259,Kellogg Brown & Roo
+259,Kellogg C
+259,Kellogg Co
+261,Kimberly-Clark Cor
+261,Kimberly-Clark Corp
+261,Kimberly-Clark Corporatio
+261,Kimberly-Clark Corporation
+263,Kinder Morgan In
+263,Kinder Morgan Incorporate
+263,Kinder Morgan Incorporated
+263,Kinder Morgan Management Llc
+265,Kohl's Cor
+265,Kohl's Corp
+265,Kohl's Department Store
+265,Kohl's Department Stores
+266,Kraft Food
+266,Kraft Foods
+266,Kraft Foods Inc
+266,Kraft Foods Incorporate
+266,Kraft Foods Incorporated
+267,Kroger C
+267,Kroger Compan
+269,L-3 Communication
+269,L-3 Communications
+269,L-3 Communications Holdings In
+269,L-3 Communications Holdings Inc
+270,Laboratory Corp of America
+270,Laboratory Corp of America Holding
+270,Laboratory Corp of America Holdings
+270,Laboratory Corporation of America Holding
+272,Legg Mason Capital Managemen
+272,Legg Mason Funds Managemen
+272,Legg Mason Funds Management
+272,Legg Mason In
+272,Legg Mason Inc
+272,Legg Mason Incorporated
+272,Legg Mason Value Trus
+272,Legg Mason Value Trust
+272,Legg Mason Wood Walker
+274,Lennar Corp
+274,Lennar Corporation
+275,Level 3 Communications In
+275,Level 3 Communications Inc
+275,Level 3 Communications Incorporated
+276,Leucadia National Cor
+278,Lincoln National Cor
+278,Lincoln National Grou
+281,Lockheed Cor
+281,Lockheed Marti
+281,Lockheed Martin
+281,Lockheed Martin Cor
+281,Lockheed Martin Corp
+281,Lockheed Martin Corporatio
+281,Lockheed Martin Corporation
+282,Loews Cor
+282,Loews Corp
+282,Loews Hotel
+282,Loews Hotel Cor
+282,Loews Hotels
+282,Loews Miami Beach Hotel (Fla
+283,Lowe's Co
+283,Lowe's Companie
+283,Lowe's Companies
+285,M&T Bank Corporatio
+287,Macy's
+287,Macy's Eas
+288,Mallinckrodt In
+289,Marathon Oil Co
+291,Host Marriott Cor
+291,Marriott
+291,Marriott Cor
+291,Marriott Corp
+291,Marriott Hotel
+291,Marriott Hotels
+291,Marriott International In
+291,Marriott International Inc
+291,Marriott International Incorporate
+291,Marriott International Incorporated
+291,Marriott Marquis
+291,Marriott Marquis Hotel (NYC)
+291,Marriott Residence Inn Usa L
+291,Marriott Seaview Resort (NJ
+292,Marsh & McLennan Companies Incorporated
+292,Marsh & McLennan Cos
+292,Marsh & Mclennan Co
+292,Marsh & Mclennan Cos
+294,Masco Cor
+294,Mascot Net! (Web Site)
+295,Mastercard Internationa
+295,Mastercard International
+295,Mastercard International In
+295,Mastercard International Inc
+296,Mattel In
+296,Mattel Inc
+296,Mattel Incorporated
+297,McCormick & Co
+298,McDonald's Corp
+298,McDonald's Corporatio
+298,McDonald's Corporation
+298,McDonald's Holdings Co
+299,McKesson HBOC Inc
+300,Mead Cor
+300,Mead Johnson C
+301,Medtronic In
+301,Medtronic Inc
+301,Medtronic Incorporate
+301,Medtronic Incorporated
+302,Merck & C
+302,Merck & Co
+302,Merck & Co In
+302,Merck & Co Inc
+302,Merck & Company In
+302,Merck & Company Inc
+302,Merck & Company Incorporate
+302,Merck & Company Incorporated
+302,Merck &DONTSPLIT Company Incorporated
+302,Merck (German Co
+302,Merck Grou
+302,Merck Kga
+302,Merck Research Laboratories
+302,Merck of German
+302,Merck of Germany
+302,Merck-Medco Managed Care In
+305,Michael Jordan's Restaurant (Chicago
+305,Michael Jordan's Steak House (NYC Restaurant
+305,Michael Jordan's Steak House (NYC Restaurant)
+305,Michael Jordan-the Steak House
+305,Michael Kors (Nyc Shop)
+306,Microchip Technology Inc
+307,Micron Electronics In
+307,Micron Electronics Inc
+307,Micron Technology In
+307,Micron Technology Inc
+307,Micron Technology Incorporate
+307,Micron Technology Incorporated
+308,Microsoft Cor
+308,Microsoft Corp
+308,Microsoft Corp.
+308,Microsoft Corporatio
+308,Microsoft Corporation
+310,Molson Breweries
+310,Molson Coor
+310,Molson Coors Brewing C
+310,Molson Coors Brewing Compan
+310,Molson In
+310,Molson Inc
+310,Molson Incorporated
+312,Monsanto C
+312,Monsanto Co
+312,Monsanto Company
+314,Moody's Corporation
+314,Moody's Economy.com
+314,Moody's Investors Servic
+314,Moody's Investors Service
+314,Moody's Investors Service In
+314,Moody's Investors Service Inc
+315,Morgan Stanle
+315,Morgan Stanley
+315,Morgan Stanley & C
+315,Morgan Stanley & Co
+315,Morgan Stanley Capital Group
+315,Morgan Stanley Capital International
+315,Morgan Stanley Dean Witte
+315,Morgan Stanley Dean Witter
+315,Morgan Stanley Dean Witter & C
+315,Morgan Stanley Dean Witter & Co
+315,Morgan Stanley Dean Witter & Compan
+315,Morgan Stanley Dean Witter & Company
+315,Morgan Stanley Dean Witter &DONTSPLIT Company
+315,Morgan Stanley Group In
+315,Morgan Stanley Group Inc
+317,Motorola Cor
+317,Motorola Corp
+317,Motorola In
+317,Motorola Inc
+317,Motorola Incorporate
+317,Motorola Incorporated
+319,Mylan Laboratories In
+320,NASDAQ STOCK MARKE
+320,NASDAQ STOCK MARKET
+324,Netflix (Co
+324,Netflix (Co)
+324,Netflix In
+324,Netflix Inc
+324,Netflix Incorporate
+324,Netflix Incorporated
+324,Netflix.Com
+324,Netflix.co
+324,Netflix.com
+325,Harrison Young Pesonen & Newell In
+325,Interbrand Newell & Sorrel
+325,Newell C
+325,Newell Rubbermaid In
+325,Newell Rubbermaid Inc
+325,Newell Rubbermaid Incorporated
+327,Newmont Mining Cor
+327,Newmont Mining Corp
+327,Newmont Mining Corporatio
+328,News Cor
+328,News Corp
+328,News Corporation Limite
+328,News Corporation Limited
+329,News Cor
+329,News Corp
+329,News Corporation Limite
+329,News Corporation Limited
+331,Nielsen Compan
+331,Nielsen Edi Inc
+331,Nielsen Media Researc
+331,Nielsen Media Research
+331,Nielsen Media Research Incorporated
+331,Nielsen Media Research Internationa
+331,Nielsen NetRatings
+331,Nielsen Netratings
+331,Nielsen SoundSca
+331,Nielsen Soundsca
+331,Nielsen Soundscan
+331,Nielsen-Kellerman Co
+331,Nielsen/NetRatings
+331,Nielsen/net Rating
+331,Nielsen/net Ratings
+331,Nielsen/netrating
+331,Nielsen/netratings
+332,Nike In
+332,Nike Inc
+332,Nike Incorporate
+332,Nike Incorporated
+335,Nordstrom In
+335,Nordstrom Inc
+335,Nordstrom.com
+336,Norfolk Southern Cor
+336,Norfolk Southern Corp
+337,Northern Trust Co
+337,Northern Trust Corp
+337,Northern Trust Corporatio
+338,Northrop Grumma
+338,Northrop Grumman
+338,Northrop Grumman Cor
+338,Northrop Grumman Corp
+338,Northrop Grumman Corporatio
+340,Nucor Cor
+340,Nucor Corporation
+341,Nvidia Cor
+343,Occidental Petroleum Cor
+343,Occidental Petroleum Corp
+343,Occidental Petroleum Corporatio
+343,Occidental Petroleum Corporation
+344,Omnicom
+344,Omnicom Grou
+344,Omnicom Group
+344,Omnicom Group Incorporate
+344,Omnicom Group Incorporated
+345,ONEOK IN
+346,Oracle Cor
+346,Oracle Corp
+346,Oracle Corporatio
+346,Oracle Corporation
+351,Paychex Inc
+352,PayPal Incorporate
+352,PayPal.co
+355,PepsiCo In
+355,PepsiCo Inc
+355,PepsiCo Incorporate
+355,PepsiCo Incorporated
+357,Perrigo C
+358,Pfizer In
+358,Pfizer Inc
+358,Pfizer Incorporate
+358,Pfizer Incorporated
+360,Philip Morris Co
+360,Philip Morris Companie
+360,Philip Morris Companies
+360,Philip Morris Companies In
+360,Philip Morris Companies Inc
+360,Philip Morris Companies Incorporate
+360,Philip Morris Companies Incorporated
+360,Philip Morris Cos
+360,Philip Morris Cos Inc
+360,Philip Morris In
+360,Philip Morris Us
+363,Pioneer Natural Resource
+365,PNC
+365,PNC BAN
+365,PNC BANK
+365,PNC BANK COR
+365,PNC BANK CORP
+365,PNC Capital Markets
+365,PNC FINANCIAL CORP
+365,PNC Financial Services Group Incorporated
+365,PNC Mortgage
+366,Polo Ralph Lauren Cor
+366,Polo Ralph Lauren Corp
+366,Polo Ralph Lauren Corporation
+367,PPG INDUSTRIES IN
+367,PPG INDUSTRIES INC
+370,Priceline.com
+370,Priceline.com In
+370,Priceline.com LLC
+371,Principal Financial Group Incorporated
+372,Procter & Gamble C
+372,Procter & Gamble Co
+372,The Procter & Gamble Compan
+372,The Procter & Gamble Company
+372,The Procter &DONTSPLIT Gamble Company
+373,Progressive Auto Insurance
+373,Progressive Cor
+373,Progressive Corp
+373,Progressive Corporation
+373,Progressive Insuranc
+373,Progressive Insurance
+373,Progressive Insurance C
+373,Progressive Insurance Co
+375,Prudential Cor
+375,Prudential Corp Plc
+375,Prudential Equity Investor
+375,Prudential Financia
+375,Prudential Financial In
+375,Prudential Financial Inc
+375,Prudential Financial Incorporate
+375,Prudential Financial Incorporated
+375,Prudential Healthcar
+375,Prudential Insurance C
+375,Prudential Insurance Co
+375,Prudential Insurance Co of Americ
+375,Prudential Insurance Co of America
+375,Prudential Investment Management Inc
+375,Prudential Life Insurance Co of America
+375,Prudential Real Estate Investor
+375,Prudential Securities Group
+375,Prudential Securities In
+375,Prudential Securities Inc
+376,Public Service Enterprise Grou
+376,Public Service Enterprise Group In
+377,Public Storage Incorporated
+377,Wisconsin Public Service Cor
+378,Pulte Corp
+378,Pulte Homes Inc
+383,Quest Diagnostic
+383,Quest Diagnostic Inc
+383,Quest Diagnostics Inc
+385,Raytheon C
+385,Raytheon Co
+385,Raytheon Company
+385,Raytheon Cor
+385,Raytheon Engineers and Constructors
+387,Red Hat In
+387,Red Hat Inc
+387,Red Hat Softwar
+387,Red Hat Software
+387,Red Hat Software In
+387,Red Hat Software Inc
+388,Regeneron Pharmaceuticals
+388,Regeneron Pharmaceuticals In
+389,Regions Financial Cor
+391,Reynolds American In
+392,Robert Half International Inc
+392,Robert Half International Incorporated
+394,Rockwell International Cor
+394,Rockwell International Corp
+397,Royal Caribbean Cruise Lin
+397,Royal Caribbean Cruise Line
+397,Royal Caribbean Cruises Lt
+397,Royal Caribbean Cruises Ltd
+397,Royal Caribbean Internationa
+397,Royal Caribbean International
+397,SAS Royal Hotel (Copenhagen)
+399,Salesforce.com
+399,Salesforce.com In
+401,Schlumberger Lt
+401,Schlumberger Ltd
+403,Seagate Technology Holding
+403,Seagate Technology In
+403,Seagate Technology Inc
+405,Sempra Energ
+405,Sempra Energy
+405,Sempra Energy Co
+406,Sherwin-Williams C
+406,Sherwin-Williams Co
+406,Sherwin-Williams Compan
+408,Simon Property Grou
+408,Simon Property Group
+408,Simon Property Group Inc
+408,Simon Property Group Incorporated
+408,TBWA/Simons Palme
+410,SL Green Realty Cor
+412,Southern Co
+412,Texas Southern Universit
+412,University of Southern Californi
+412,University of Southern California
+412,University of Southern Maine
+413,Pacific Southwest Airline
+413,Southwest Airline
+413,Southwest Airlines
+413,Southwest Airlines Co
+413,Southwest Airlines Compan
+413,Southwest Airlines Company
+413,Southwest Airlines Pilots Ass
+413,Southwest Indian Foundation
+413,Southwest Missouri State University
+413,Southwest Museum (Los Angeles
+413,Southwestern Bell Telephone C
+413,Southwestern Life Insurance Co
+413,Southwestern Universit
+413,University of Texas Southwestern Medical Cente
+414,Southwestern Bell Telephone C
+414,Southwestern Life Insurance Co
+414,Southwestern Universit
+414,University of Texas Southwestern Medical Cente
+415,Spectranetics Cor
+415,Spectrasite Holdings In
+416,S&P/Portfolio Management Dat
+417,St Jude Children's Research Hospital (Memphis
+417,St Jude Children's Research Hospital (Memphis)
+417,St Jude Medical In
+417,firm Stats Inc
+418,Stanley Work
+418,Stanley Works
+419,Staples In
+419,Staples Inc
+419,Staples Incorporated
+420,Starbucks Coffee C
+420,Starbucks Coffee Co
+420,Starbucks Coffee Japa
+420,Starbucks Coffee Japan
+420,Starbucks Cor
+420,Starbucks Corp
+420,Starbucks Corporatio
+420,Starbucks Corporation
+421,State Street Balle
+421,State Street Bank and Trust Co
+421,State Street Boston Cor
+421,State Street Cor
+421,State Street Corporation
+421,State Street Global Advisor
+421,State Street Global Advisors
+423,Stryker Cor
+425,Symantec Cor
+425,Symantec Corp
+425,Symantec Corporatio
+427,Sysco Cor
+429,Target Cor
+429,Target Corp
+429,Target Corporatio
+429,Target Corporation
+429,Target Store
+429,Target Stores
+433,Tesoro Petroleum Cor
+434,Texas Instruments In
+434,Texas Instruments Inc
+434,Texas Instruments Incorporate
+434,Texas Instruments Incorporated
+435,Textron Incorporate
+437,HERSHEY CHOCOLATE USA
+438,TRAVELERS COMPANIES
+440,Tiffany
+440,Tiffany & C
+440,Tiffany & Co
+440,Tiffany & Compan
+440,Tiffany & Company
+440,Tiffany &DONTSPLIT Company
+441,Time Warner Cabl
+441,Time Warner Cable
+441,Time Warner Cable Grou
+441,Time Warner Cor
+441,Time Warner Corp
+441,Time Warner Entertainmen
+441,Time Warner In
+441,Time Warner Inc
+441,Time Warner Telecom In
+441,Time Warner Telecommunication
+442,TJX Companies Incorporated
+444,Total S
+445,Tractor Supply C
+447,Transocean In
+447,Transocean Offshore Inc
+449,Twenty-First Century Kilts
+450,Twenty-First Century Kilts
+451,Tyson Foods In
+451,Tyson Foods Inc
+451,Tyson Foods Incorporated
+454,U.S. Bancor
+454,U.S. Bancorp
+455,Under Armour Performance Appare
+457,Union Pacific (NYC Restaurant
+457,Union Pacific Cor
+457,Union Pacific Corp
+457,Union Pacific Railroa
+457,Union Pacific Railroad
+457,Union Pacific Resources Group In
+457,Union Pacific Restaurant (NYC Restaurant)
+459,United Health Grou
+459,United Health Group
+459,United Healthcare Cor
+459,United Healthcare Corp
+460,United Parcel Servic
+460,United Parcel Service
+460,United Parcel Service Airlines
+460,United Parcel Service In
+460,United Parcel Service Inc
+460,United Parcel Service Incorporate
+460,United Parcel Service Incorporated
+460,United Parcel Service of America In
+460,United Parcel Service of America Inc
+461,United Rental
+461,United Rentals (Co)
+462,United Technologies Cor
+462,United Technologies Corp
+462,United Technologies Corporation
+462,United Technologies In
+462,United Technologies Inc
+463,Universal Health Services In
+463,Universal Health Services Inc
+464,Unum Cor
+465,Urban Outfitters In
+465,Urban Outfitters Incorporate
+465,Urban Outfitters Incorporated
+467,Valero Energy Cor
+467,Valero Energy Corporatio
+468,Varian Incorporate
+470,Verisign (Co
+470,Verisign In
+470,Verisign Inc
+472,Verizon (Co
+472,Verizon Communication
+472,Verizon Communications
+472,Verizon Communications In
+472,Verizon Communications Inc
+472,Verizon Cor
+472,Verizon Corp
+472,Verizon Foundation
+472,Verizon Wireles
+472,Verizon Wireless
+472,Verizon Wireless In
+472,Verizon Wireless Inc
+473,Vertex In
+473,Vertex Pharmaceuticals In
+473,Vertex Pharmaceuticals Incorporated
+474,Viacom Entertainment Grou
+474,Viacom In
+474,Viacom Inc
+474,Viacom Incorporate
+474,Viacom Incorporated
+475,Visa International In
+475,Visa International Inc
+475,Visa USA In
+475,Visa USA Inc
+475,Visa Us
+475,Visa Usa
+475,Visa Usa In
+475,Visa Usa Inc
+476,Vornado Realt
+476,Vornado Realty Trus
+476,Vornado Realty Trust
+477,Vulcan In
+478,Wal-Mart
+478,Wal-Mart Stores In
+478,Wal-Mart Stores Inc
+478,Wal-Mart Stores Incorporate
+478,Wal-Mart Stores Incorporated
+478,Wal-Mart.com Inc
+480,The Walt Disney Compan
+480,The Walt Disney Company
+481,Waste Management In
+481,Waste Management Inc
+481,Waste Management Incorporate
+481,Waste Management Incorporated
+483,Wells Fargo & C
+483,Wells Fargo & Co
+483,Wells Fargo & Compan
+483,Wells Fargo & Company
+483,Wells Fargo &DONTSPLIT Company
+483,Wells Fargo Ban
+483,Wells Fargo Bank
+485,Western Digital Corporation
+486,Western Union Cor
+486,Western Union Corp
+486,Western Union Financial Services Inc
+486,Western companie
+488,Weyerhaeuser C
+488,Weyerhaeuser Company
+488,Weyerhaeuser Cor
+489,Whirlpool Cor
+489,Whirlpool Corp
+489,Whirlpool Corporation
+490,Whole Foods Marke
+490,Whole Foods Market In
+490,Whole Foods Market Inc
+490,Whole Foods Market Incorporate
+490,Whole Foods Market Incorporated
+491,Williams Cos In
+492,Willis Grou
+492,Willis Group
+492,Willis Group Holdings Limite
+492,Willis Group Holdings Lt
+493,Wisconsin Electric Power Co
+494,Wyndham Hotel Cor
+494,Wyndham Hotel Corp
+494,Wyndham International In
+494,Wyndham International Inc
+494,Wyndham International Incorporate
+494,Wyndham Worldwide Cor
+495,Wynn Las Vegas Resort and Country Club (Las Vegas)
+495,Wynn Resort
+495,Wynn Resorts
+496,Xcel Energ
+496,Xcel Energy
+497,Xerox Cor
+497,Xerox Corp
+497,Xerox Corporatio
+497,Xerox Corporation
+498,Xilinx Inc
+499,XL Capital Assurance
+501,Yahoo (Co)
+501,Yahoo Digita
+501,Yahoo In
+501,Yahoo Inc
+501,Yahoo Incorporate
+501,Yahoo Incorporated
+501,Yahoo Japan Cor
+501,Yahoo Japan Corp
+501,Yahoo! Inc
+501,Yahoo! Incorporate
+501,Yahoo! Incorporated
+501,Yahoo.co
+501,Yahoo.com
+503,Zimmer Holdings In
+503,Zimmer Holdings Incorporate
+504,Zions Bancor
+504,Zions Bancorporatio
